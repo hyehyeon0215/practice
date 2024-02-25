@@ -1,0 +1,8 @@
+@import './style.css';
+
+.inner {max-width: 360px; margin: 0 auto; padding: 0 23px; width: 100%; background-color: red;}
+header .header-top {width: 100%; height: 100px; background-color: #bbb;}
+header nav {background-color: #ddd;}
+header nav .header-swiper {min-width: 320px;}
+header nav .header-swiper .swiper-wrapper .swiper-slide {width: auto;}
+header nav .header-swiper .swiper-wrapper {display: flex; justify-content: space-between;}
